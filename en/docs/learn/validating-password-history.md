@@ -60,7 +60,7 @@ Follow the steps below to define the password policy that Robert wants to enforc
 
 	2.	Click **Add New User**.
 
-	3.	Enter `Larry` as the user name and `testwso2is` as the password.
+	3.	Enter `Larry` as the user name and `testWSO2is!` as the password.
 
 	4.	Click **Finish**.
 
@@ -94,7 +94,7 @@ Follow the steps below to define the password policy that Robert wants to enforc
 
 		<img src="../../assets/img/learn/dashboard-change-password-option.png" alt="Change Passwrod option" width="700" style="border:1px solid grey">
 
-	5.	Enter `testwso2is` in **Current Password**, **New Password**, and **Confirm New Password** text boxes.
+	5.	Enter `testWSO2is!` in **Current Password**, **New Password**, and **Confirm New Password** text boxes.
 
 		<img src="../../assets/img/learn/change-password-form.png" alt="Change Password form" width="700" style="border:1px solid grey"> 
 
@@ -110,4 +110,4 @@ Follow the steps below to define the password policy that Robert wants to enforc
 
 		Note that these passwords gets successfully added to the system. 
 
-	8.	Now, change Larry's password back to `testwso2is`. Note that the password gets successfully changed. 
+	8.	Now, change Larry's password back to `testWSO2is!`. Note that the password gets successfully changed. 
